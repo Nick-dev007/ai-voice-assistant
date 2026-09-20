@@ -300,18 +300,6 @@ The project uses third-party APIs and services. Their availability and functiona
 
 ---
 
-## 👨‍💻 Author
-
-**Sagar Nikhil**
-
-Aspiring Software Engineer interested in:
-
-* Python
-* Java
-* Artificial Intelligence
-* Machine Learning
-* Web Development
-* Software Engineering
 
 ---
 
